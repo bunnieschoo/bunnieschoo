@@ -6,7 +6,7 @@ I am a Finance student and a **Vibe Coder**—I focus on high-level intent, prob
 ## 🛠️ Tech Stack & Tooling
 
 ### Data Science & Analytics
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,r,sql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,r)](https://skillicons.dev)
 
 ### AI Coding Partners & Environment
 ![Cursor](https://shields.io)
