@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # Hi there, I'm Bernice Chu.👋
 
 I am a Finance student and a **Vibe Coder**—I focus on high-level intent, problem-solving, and building solutions by orchestrating modern AI tools. Currently, I am leveraging data science libraries and relational databases to uncover hidden stories in data.
@@ -6,11 +6,7 @@ I am a Finance student and a **Vibe Coder**—I focus on high-level intent, prob
 ## 🛠️ Tech Stack & Tooling
 
 ### Data Science & Analytics
-![Python](https://shields.io)
-![R](https://shields.io)
-![Pandas](https://shields.io)
-![Scikit-Learn](https://shields.io)
-![SQL](https://shields.io)
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,r,sql)](https://skillicons.dev)
 
 ### AI Coding Partners & Environment
 ![Cursor](https://shields.io)
