@@ -23,7 +23,7 @@ A SQL-based project exploring Tesla stock data through queries and financial dat
 **Stack:** SQL
 
 ### 03 — Machine Learning on Beer Reviews
-
+[View project →](https://github.com/bunnieschoo/beer-review-machine-learning.git)
 An analysis of BeerAdvocate reviews using regression, classification, and clustering to explore beer ratings and patterns in review data.
 
 **Stack:** Python · pandas · scikit-learn
