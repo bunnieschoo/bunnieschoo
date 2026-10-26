@@ -24,9 +24,12 @@ A SQL-based project exploring Tesla stock data through queries and financial dat
 
 ### 03 — Machine Learning on Beer Reviews
 [View project →](https://github.com/bunnieschoo/beer-review-machine-learning.git)
-An analysis of BeerAdvocate reviews using regression, classification, and clustering to explore beer ratings and patterns in review data.
 
-**Stack:** Python · pandas · scikit-learn
+Analysed 50,000 BeerAdvocate reviews to investigate patterns in beer ratings and predict overall review scores. Built and compared regression models using data preprocessing, cross-validation, and held-out test evaluation.
+
+**Stack:** Python · pandas · NumPy · scikit-learn · Matplotlib · Seaborn
+
+**Methods:** Exploratory Data Analysis · Data Cleaning · Linear Regression · Ridge & Lasso Regression · Random Forest · Model Evaluation (RMSE, MAE, R²)
 
 ## Areas of Interest
 
