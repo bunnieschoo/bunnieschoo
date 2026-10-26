@@ -1,20 +1,47 @@
+# Bernice Chu
 
-# Hi there, I'm Bernice Chu.👋
+**Banking and Finance Student | University of London (EMFSS)**
 
-I am a Finance student and a **Vibe Coder**—I focus on high-level intent, problem-solving, and building solutions by orchestrating modern AI tools. Currently, I am leveraging data science libraries and relational databases to uncover hidden stories in data.
+I'm a Banking and Finance student pursuing a University of London degree through the **Economics, Management, Finance and the Social Sciences (EMFSS)** programme. I'm interested in quantitative finance, data science, and machine learning, and I enjoy exploring how programming and statistical methods can be applied to financial markets and real-world datasets.
 
-## 🛠️ Tech Stack & Tooling
+Through personal and academic projects, I'm developing my skills in data analysis, predictive modelling, and financial research.
 
-### Data Science & Analytics
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,r)](https://skillicons.dev)
+## Projects
 
-### AI Coding Partners & Environment
-![Cursor](https://shields.io)
-![ChatGPT](https://shields.io)
-![GitHub](https://shields.io)
+### 01 — Predicting SPY Returns
+[View project →](https://github.com/bunnieschoo/quantitative-finance-ml-project)
 
-## 📊 Featured Project
-### 🔍 I'm currently working on my first SQL project, stay tuned!
+An exploration of whether historical market data can help predict SPY returns. I compared regression models and a Random Forest against simple benchmarks, focusing on model performance and the challenges of predicting financial markets.
+
+**Stack:** Python · pandas · scikit-learn
+
+### 02 — Tesla Stock Analysis with SQL
+[View project →](https://github.com/bunnieschoo/tesla-stock-sql-analysis)
+
+A SQL-based project exploring Tesla stock data through queries and financial data analysis.
+
+**Stack:** SQL
+
+### 03 — Machine Learning on Beer Reviews
+
+An analysis of BeerAdvocate reviews using regression, classification, and clustering to explore beer ratings and patterns in review data.
+
+**Stack:** Python · pandas · scikit-learn
+
+## Areas of Interest
+
+- Quantitative finance and financial modelling
+- Machine learning and statistical methods
+- Financial data analysis
+- Predictive modelling and model evaluation
+
+## Tools
+
+`Python` `SQL` `R` `pandas` `NumPy` `scikit-learn` `Git` `GitHub`
+
+---
+
+*Learning by building, testing, and improving.*
 <!--
 **bunnieschoo/bunnieschoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
